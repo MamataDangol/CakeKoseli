@@ -106,6 +106,7 @@ public class DashboardActivity extends AppCompatActivity {
             h.removeCallbacks(animateViewPager);
         }
     }
+    //changed
 
     @Override
     protected void onResume() {
